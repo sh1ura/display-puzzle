@@ -8,7 +8,7 @@
 * Each tetromino has 1 ~ 3 ON-pixels on a single side. (the all pixels on the other side are OFF)
 * Surprizingly, it can show all 95 ASCII characters by arranging the pieces.
 
-![parts](https://user-images.githubusercontent.com/86639425/161107133-119f3a4d-c736-4ffe-ba52-e4531d69dc59.jpg)
+![two-side](https://user-images.githubusercontent.com/86639425/161107901-e1b6abd6-57a9-4212-8f2f-584154ed212c.jpg)
 
 ### 95 goals
 ![goals](https://user-images.githubusercontent.com/86639425/161105181-675c7d95-4f84-4b02-be95-7cca24d1436a.jpg)
