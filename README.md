@@ -14,6 +14,6 @@
 ![goals](https://user-images.githubusercontent.com/86639425/161105181-675c7d95-4f84-4b02-be95-7cca24d1436a.jpg)
 
 * goal.pdf : Characters to be shown
-* answer.pdf : One of the solutions of each goal
+* answer.pdf : One of the solutions of each goal (Capital letters mean ON pixel)
 
 Note : Typeface is specified as shown above. the other typefaces are not always possible.
