@@ -9,6 +9,8 @@
 * Surprizingly, it can show all 95 ASCII characters by arranging the pieces.
 
 ![two-side](https://user-images.githubusercontent.com/86639425/161107901-e1b6abd6-57a9-4212-8f2f-584154ed212c.jpg)
+![model](https://user-images.githubusercontent.com/86639425/161287986-05a1d272-8d4b-4f14-841b-a07c1eebe9c3.jpg)
+
 
 ### 95 goals
 ![goals](https://user-images.githubusercontent.com/86639425/161105181-675c7d95-4f84-4b02-be95-7cca24d1436a.jpg)
