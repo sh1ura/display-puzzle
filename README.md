@@ -1,8 +1,8 @@
-# Tetromino Filling Puzzle of Dot Matrix Display
+# Tetromino Tiling Puzzle of Dot Matrix Display
 
 ![all2](https://user-images.githubusercontent.com/86639425/161104665-0f299de1-0299-4688-a625-436b0c2a9141.jpg)
 
-## A tetromino filling puzzle that can show all ASCII characters.
+## A tetromino tiling puzzle that can show all ASCII characters.
 
 * Fill the 8x8 board with 16 tetrominoes.
 * Each tetromino has 1 ~ 3 ON-pixels on a single side. (the all pixels on the other side are OFF)
